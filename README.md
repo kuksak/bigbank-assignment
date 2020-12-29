@@ -5,7 +5,7 @@
 3. venv (virtual environment in Python)
 4. allure - https://docs.qameta.io/allure/
 
-##Project structure
+## Project structure
 
 Python behave needs a certain directory structure for the testing of the feature files. The below structure explains the 
 directory structure for the project
