@@ -1,0 +1,6 @@
+venv
+venv3
+nosetests.xml
+reports/.*json
+reports/.*html
+*.html
