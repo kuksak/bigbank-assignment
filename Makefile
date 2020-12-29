@@ -1,9 +1,9 @@
-all: venv test_behave unittests
+# The file is formatted with CRLF, if in MAC please format to LF
 
 venv:
     python -m venv venv3
     #for windows
-    venv3\Scripts\activate
+    #venv3\Scripts\activate
     #for macOS or linux, use the below command
     #source venv3/bin/activate
     pip install -r requirements.txt
